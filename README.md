@@ -113,12 +113,12 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/activity-graph-output/activity-graph.svg?radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
+  <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/activity-graph-output/activity-graph.svg?radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph" align="center" />
   <br>
   <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <br>
-  <img src="https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"   />
   <br>
   <img src="https://streak-stats.demolab.com?user=Aryansahu69-py&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
