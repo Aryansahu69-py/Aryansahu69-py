@@ -48,8 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo" />
 </div>
-
+ 
 ###
 
 <h2 data-importer="text" align="left">Databases</h2>
@@ -60,15 +61,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 
 <h2 data-importer="text" align="left">Data Visualization</h2>
-
-###
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" alt="matplotlib logo" />
 
 <h2 data-importer="text" align="left">Tools And Technologies</h2>
 
-###
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
