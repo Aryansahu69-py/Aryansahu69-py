@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 B.Tech Mechanical Engineering student at Netaji Subhas University of Technology (NSUT)<br><br>💻 Passionate about Python Development, Web Development, Artificial Intelligence, and Open Source<br><br>🚀 Building projects that combine engineering and technology to solve real-world problems<br><br>🌱 Currently learning Pandas, Data Structures & Algorithms, and AI/ML<br><br>🤝 Open to collaborating on innovative projects<br><br>⚡ Fun Fact: I enjoy transforming ideas into practical applications through code.</p>
+<p data-importer="text" align="left">🎓 B.Tech Mechanical Engineering student at Netaji Subhas University of Technology (NSUT)<br><br>💻 Passionate about Python Development, Web Development, Artificial Intelligence<br><br>🚀 Building projects that combine engineering and technology to solve real-world problems<br><br>🌱 Currently learning Pandas, Data Structures & Algorithms, and AI/ML<br><br>🤝 Open to collaborating on innovative projects<br><br>⚡ Fun Fact: I enjoy transforming ideas into practical applications through code.</p>
 
 ###
 
