@@ -117,9 +117,9 @@
   <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/activity-graph-output/activity-graph.svg?radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph" align="center" />
   <br>
   
-![](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryansahu69-py&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=nightowl&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryansahu69-py&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
