@@ -76,9 +76,8 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+    <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
 </div>
 
 ###
