@@ -81,6 +81,19 @@
 </div>
 
 ###
+<h2 data-importer="text" align="left">Future Learning plan</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img width="40"  src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/React.svg" />
+    <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"/>
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+    <p> and Many moreeeeee</p>
+</div>
 
 <p data-importer="text" align="left"></p>
 
