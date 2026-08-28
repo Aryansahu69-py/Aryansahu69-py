@@ -7,16 +7,12 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" , width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img data-importer="image" height="350" , width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
 
-<h2 data-importer="text" align="left">About me</h2>
 
-###
 
-<p data-importer="text" align="left">🎓 B.Tech Mechanical Engineering student at Netaji Subhas University of Technology (NSUT)<br><br>💻 Passionate about Python Development, Web Development, Artificial Intelligence<br><br>🚀 Building projects that combine engineering and technology to solve real-world problems<br><br>🌱 Currently learning Pandas, Data Structures & Algorithms, and AI/ML<br><br>🤝 Open to collaborating on innovative projects<br><br>⚡ Fun Fact: I enjoy transforming ideas into practical applications through code.</p>
 
 ###
 
@@ -30,25 +26,26 @@
 
 <h2 data-importer="text" align="left">Programming Languages</h2>
 
-###
+
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="40"  src="https://icon.icepanel.io/Technology/svg/HTML5.svg" /> 
+    <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+    <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+    
 </div>
 
 ###
 
-<h2 data-importer="text" align="left">Web Development</h2>
+<h2 data-importer="text" align="left">Framewroks</h2>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo" />
+ <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
+    <img width="40" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"/>
 </div>
  
 ###
