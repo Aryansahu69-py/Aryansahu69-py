@@ -50,29 +50,23 @@
  
 ###
 
-<h2 data-importer="text" align="left">Databases</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
 
 
 
-<h2 data-importer="text" align="left">Data Visualization</h2>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" alt="matplotlib logo" />
 
-<h2 data-importer="text" align="left">Tools And Technologies</h2>
+
+
+<h2 data-importer="text" align="left"> AI, Tools And Technologies</h2>
 
 
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png"/>
+    <img width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png"/>
+    <img width="40" src="https://vectorseek.com/wp-content/uploads/2025/09/Google-flow-Logo-PNG-SVG-Vector-1.png"/>
+    <img width="40" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"/>
+    <img width="40" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>
+    <img width="40" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg"/>
 </div>
 
 ###
