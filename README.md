@@ -120,9 +120,15 @@
   <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/activity-graph-output/activity-graph.svg?radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph" align="center" />
   <br>
   
-![](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryansahu69-py&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryansahu69-py&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Aryansahu69-py&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 ###
 
