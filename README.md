@@ -106,19 +106,19 @@
 <h1 data-importer="text" align="left">📊 Github Stats</h1>
 
 ###
-
+<br>
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+<br>
 
-###
 
 <div data-importer="stats" align="left">
   
   <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/activity-graph-output/activity-graph.svg?radius=16&theme=dark&area=true&order=5" height="300" alt="activity-graph graph" align="center" />
-  <br>
+  <br><br>
  
 ![](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=dark&hide_border=false)<br/><br/>
