@@ -130,7 +130,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=dark)](https://git.io/streak-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aryansahu69-py?theme=dark&font=Ubuntu%20Mono&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aryansahu69-py?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
 
 
 
