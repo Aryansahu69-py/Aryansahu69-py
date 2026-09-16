@@ -127,8 +127,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Aryansahu69-py&layout=donut&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=yourprateek&layout=donut&langs_count=4&theme=radical)
 
 [![Aryan's GitHub stats](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=dark)](https://git.io/streak-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aryansahu69-py?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
 
@@ -138,7 +137,12 @@
 
 
 ---
-
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Aryansahu69-py&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
+  
+  
+</div>
 
 
 
