@@ -61,8 +61,8 @@
 
 
 <div data-importer="techs" align="left">
-    <img width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png"/>
-    <img width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png"/>
+    <img width="40" src="https://i.pinimg.com/736x/28/0e/7f/280e7fe9a454648e9e51ffd92a47146a.jpg"/>
+    <img width="40" src="https://imgs.search.brave.com/9En-ZP9HHLaDq4THlw-8I_7QzdDdj2JMTEfQFQdQzW4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z3N0YXRpYy5jb20v/YW50aWdyYXZpdHkv/bG9nb3MvaWNvbi1j/b2xvci5wbmc"/>
     <img width="40" src="https://vectorseek.com/wp-content/uploads/2025/09/Google-flow-Logo-PNG-SVG-Vector-1.png"/>
     <img width="40" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"/>
     <img width="40" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>
