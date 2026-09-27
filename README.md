@@ -92,6 +92,7 @@
     <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"/>
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
     <p> and Many moreeeeee</p>
 </div>
 
