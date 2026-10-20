@@ -127,7 +127,7 @@
   
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Aryansahu69-py&layout=donut&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=yourprateek&layout=donut&langs_count=4&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu69-py&show_icons=true&theme=radical)
 
 ![Aryan's GitHub stats](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
