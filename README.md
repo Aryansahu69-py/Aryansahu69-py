@@ -29,9 +29,8 @@
 
 
 <div data-importer="techs" align="left">
-  <img width="40"  src="https://icon.icepanel.io/Technology/svg/HTML5.svg" /> 
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/HTML5.svg" /> 
     <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
-    
     <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
 </div>
