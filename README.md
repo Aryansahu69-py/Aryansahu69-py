@@ -31,7 +31,7 @@
 <div data-importer="techs" align="left">
   <img width="40"  src="https://icon.icepanel.io/Technology/svg/HTML5.svg" /> 
     <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+    
     <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
 </div>
@@ -77,7 +77,7 @@
 
 <div data-importer="techs" align="left">
   <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-    <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
+    
   <img width="40"  src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
 </div>
 
@@ -94,6 +94,7 @@
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png"/>
+    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Python.svg" />
     <p> and Many moreeeeee</p>
     
 </div>
