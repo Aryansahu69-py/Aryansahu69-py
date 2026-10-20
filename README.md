@@ -78,6 +78,7 @@
 <div data-importer="techs" align="left">
   <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
     <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
+  <img width="40"  src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
 </div>
 
 ###
@@ -86,8 +87,8 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img width="40"  src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+  
+  <img width="40"  src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/React.svg" />
     <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"/>
     <img width="40"  src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
