@@ -5,10 +5,10 @@
 </picture>
 </p>
 
-<p align="center"><b>Aryan sahu </b> · 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NSUT</p>
-<p align="center"><a href="mailto:lakhan9953@gmail.com"><img src="./assets/links/email.svg" alt="lakhan9953@gmail.com" height="28"></a> <a href="https://www.instagram.com/arxan._.sahu/"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://www.linkedin.com/in/aryan-sahu-13952637b"><img src="./assets/links/linkedin.svg" alt="LinkedIn" height="28"></a></p>
 
-#### Telemetry
+
+
+
 
 <p align="center">
 <picture>
@@ -39,7 +39,7 @@
   <sub>CSS · ★ 2</sub>
 - `MSN-04` **[TAYCAN](https://github.com/Aryansahu69-py/TAYCAN)** · This is Car Featured Webpage  
   <sub>CSS · ★ 2</sub>
-
+<p align="center"><a href="mailto:lakhan9953@gmail.com"><img src="./assets/links/email.svg" alt="lakhan9953@gmail.com" height="28"></a> <a href="https://www.instagram.com/arxan._.sahu/"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://www.linkedin.com/in/aryan-sahu-13952637b"><img src="./assets/links/linkedin.svg" alt="LinkedIn" height="28"></a></p>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-end-dark.svg">
