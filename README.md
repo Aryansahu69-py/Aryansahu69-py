@@ -1,187 +1,48 @@
-<h1 data-importer="text" align="left">Hey 👋I'm Aryan Sahu</h1>
-
-###
-
-<h2 data-importer="text" align="left">🚀 Aspiring Full Stack Developer | B.tech Student | NSUT</h2>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="350" , width="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-
-
-
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<h1 data-importer="text" align="left">💻Tech Stack</h1>
-
-###
-
-<h2 data-importer="text" align="left">Programming Languages</h2>
-
-
-
-<div data-importer="techs" align="left">
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/HTML5.svg" /> 
-    <img width="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/>
-    <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">Framewroks</h2>
-
-###
-
-<div data-importer="techs" align="left">
- <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
-    <img width="40" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"/>
-</div>
- 
-###
-
-
-
-
-
-
-
-<h2 data-importer="text" align="left"> AI, Tools And Technologies</h2>
-
-
-
-<div data-importer="techs" align="left">
-    <img width="40" src="https://i.pinimg.com/736x/28/0e/7f/280e7fe9a454648e9e51ffd92a47146a.jpg"/>
-    <img width="40" src="https://imgs.search.brave.com/9En-ZP9HHLaDq4THlw-8I_7QzdDdj2JMTEfQFQdQzW4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z3N0YXRpYy5jb20v/YW50aWdyYXZpdHkv/bG9nb3MvaWNvbi1j/b2xvci5wbmc"/>
-    <img width="40" src="https://vectorseek.com/wp-content/uploads/2025/09/Google-flow-Logo-PNG-SVG-Vector-1.png"/>
-    <img width="40" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"/>
-    <img width="40" src="https://icon.icepanel.io/Technology/svg/Git.svg"/>
-    <img width="40" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg"/>
-</div>
-
-###
-
-<h2 data-importer="text" align="left">Learning</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img width="50"  src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-    
-  <img width="40"  src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-</div>
-
-###
-<h2 data-importer="text" align="left">Future Learning plan</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  
-  <img width="40"  src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/React.svg" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"/>
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
-    <img width="40"  src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png"/>
-    <img width="40"  src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-    <p> and Many moreeeeee</p>
-    
-</div>
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<h1 data-importer="text" align="left">📊 Github Stats</h1>
-
-###
-<br>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
+  <img alt="Aryan sahu : 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NYC | NSUT. Cinematic title card: a black hole whose accretion disk is drawn from 561 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
 </picture>
-<br>
+</p>
 
+<p align="center"><b>Aryan sahu </b> · 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NYC | NSUT</p>
+<p align="center"><a href="mailto:lakhan9953@gmail.com"><img src="./assets/links/email.svg" alt="lakhan9953@gmail.com" height="28"></a> <a href="https://www.instagram.com/arxan._.sahu/"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://www.linkedin.com/in/aryan-sahu-13952637b"><img src="./assets/links/linkedin.svg" alt="LinkedIn" height="28"></a></p>
 
-<div data-importer="stats" align="center">
-  
-  <img src="https://raw.githubusercontent.com/Aryansahu69-py/Aryansahu69-py/activity-graph-output/activity-graph.svg?radius=16&theme=dark&area=true&order=5" height="300" alt="activity-graph graph" align="center" />
-  <br><br>
- 
+#### Telemetry
 
-  
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-telemetry-dark.svg">
+  <img alt="Mission telemetry for Horizon I: 1 years on GitHub, 561 contributions in the last 12 months, 68 active days, longest streak 29 days, 28 stars, 5 followers." src="./assets/singularity-telemetry-light.svg" width="100%">
+</picture>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu69-py&show_icons=true&theme=radical)
+<details>
+<summary><sub>Reading the instruments</sub></summary>
 
-![Aryan's GitHub stats](https://github-readme-stats.shion.dev/api?username=Aryansahu69-py&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+- **Accretion disk:** one particle per day of the last year; brighter and closer to the hole means a busier day. Inner rings orbit faster, as they would around a real black hole.
+- **Orbit:** contributions per month, plotted as a closed trajectory; the beacon marks the busiest month.
+- **Spectral composition:** language share by bytes across public repositories.
+- **Light theme:** rendered as a photographic negative, the way astronomical survey plates were printed.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aryansahu69-py&theme=dark)](https://git.io/streak-stats)
+<sub>Artwork: original animated SVG, generated by README Templates · template: Singularity. Motion stops if your system asks for reduced motion.</sub>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aryansahu69-py?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
+</details>
 
+#### Flight log
 
+- `MSN-01` **[PORTFOLIO-V3](https://github.com/Aryansahu69-py/PORTFOLIO-V3)** · My portfolio website with New UI/UX design . In this i am going to use NeoBrutalism   
+  <sub>HTML · ★ 2</sub>
+- `MSN-02` **[SwiggyClone](https://github.com/Aryansahu69-py/SwiggyClone)** · This is the clone website i am building using only tailwind CSS   
+  <sub>HTML · ★ 2</sub>
+- `MSN-03` **[DebugBATTLE](https://github.com/Aryansahu69-py/DebugBATTLE)** · this is the event for debugging the website organized by NYC . In this by bhavya (Mentor) a repo is given and the website is very giltchi so we have to fix all the things  
+  <sub>CSS · ★ 2</sub>
+- `MSN-04` **[TAYCAN](https://github.com/Aryansahu69-py/TAYCAN)** · This is Car Featured Webpage  
+  <sub>CSS · ★ 2</sub>
 
-</div>
-
-
----
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Aryansahu69-py&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
-  
-  
-</div>
-
-
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<h1 data-importer="text" align="left">Contacts</h1>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/aryan-sahu-13952637b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/arxan._.sahu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="lakhan9953@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h1 data-importer="text" align="left">💭Quote</h1>
-
-###
-
-<h2 data-importer="text" align="left">"Engineering teaches how things work, programming empowers us to make them work better."</h2>
-
-###
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-end-dark.svg">
+  <img alt="End of transmission. See you on the other side." src="./assets/singularity-end-light.svg" width="100%">
+</picture>
+</p>
