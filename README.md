@@ -39,6 +39,13 @@
   <sub>CSS · ★ 2</sub>
 - `MSN-04` **[TAYCAN](https://github.com/Aryansahu69-py/TAYCAN)** · This is Car Featured Webpage  
   <sub>CSS · ★ 2</sub>
+  <br>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu69-py&show_icons=true&theme=neon&align=center)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aryansahu69-py?theme=dark&font=Ubuntu%20Mono&ext=heatmap&align=center)
+
+<br>
 <p align="center"><a href="mailto:lakhan9953@gmail.com"><img src="./assets/links/email.svg" alt="lakhan9953@gmail.com" height="28"></a> <a href="https://www.instagram.com/arxan._.sahu/"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://www.linkedin.com/in/aryan-sahu-13952637b"><img src="./assets/links/linkedin.svg" alt="LinkedIn" height="28"></a></p>
 <p align="center">
 <picture>
