@@ -1,11 +1,11 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
-  <img alt="Aryan sahu : 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NYC | NSUT. Cinematic title card: a black hole whose accretion disk is drawn from 561 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
+  <img alt="Aryan sahu : 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NSUT. Cinematic title card: a black hole whose accretion disk is drawn from 561 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Aryan sahu </b> · 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NYC | NSUT</p>
+<p align="center"><b>Aryan sahu </b> · 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NSUT</p>
 <p align="center"><a href="mailto:lakhan9953@gmail.com"><img src="./assets/links/email.svg" alt="lakhan9953@gmail.com" height="28"></a> <a href="https://www.instagram.com/arxan._.sahu/"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://www.linkedin.com/in/aryan-sahu-13952637b"><img src="./assets/links/linkedin.svg" alt="LinkedIn" height="28"></a></p>
 
 #### Telemetry

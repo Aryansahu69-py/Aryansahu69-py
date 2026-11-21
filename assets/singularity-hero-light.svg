@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Aryan sahu  — 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NYC | NSUT. A black hole whose accretion disk is made of 561 contributions, one particle per day.">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Aryan sahu  — 💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NSUT. A black hole whose accretion disk is made of 561 contributions, one particle per day.">
 <style>
 .scene{animation:fade 2.4s ease-out both}
 .bar-top{animation:barTop 1.4s cubic-bezier(0.16, 1, 0.3, 1) .15s both}
@@ -72,7 +72,7 @@
   </g>
 </g>
     <text class="title" x="609.66" y="452" text-anchor="middle" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="300" font-size="46" letter-spacing="19.3" fill="#14161c">ARYAN SAHU </text>
-    <text class="sub" x="602" y="486" text-anchor="middle" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="300" font-size="16" letter-spacing="2" fill="#5a6070">💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NYC | NSUT</text>
+    <text class="sub" x="602" y="486" text-anchor="middle" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="300" font-size="16" letter-spacing="2" fill="#5a6070">💻 Java &amp; DSA Learner | 🌐 Full stack Developer | 🚀 Building, Learning &amp; Improving | NSUT</text>
   </g>
   <g class="bar-top">
     <rect width="1200" height="56" fill="#0c0d10"/>
