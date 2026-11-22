@@ -40,6 +40,42 @@
 - `MSN-04` **[TAYCAN](https://github.com/Aryansahu69-py/TAYCAN)** · This is Car Featured Webpage  
   <sub>CSS · ★ 2</sub>
   <br>
+<h3><b>TECHNICAL PAYLOAD</b></h3>
+<h4>Frontend</h4>
+<div>
+<img width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
+</div>
+<h4>Programming languages</h4>
+<div>
+<img width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Java.svg">
+</div>
+<h4>Tools</h4>
+<div>
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Git.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg">
+</div>
+<h4>Future missions</h4>
+<div>
+<img width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/React.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png">
+<img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Node.js.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg">
+<img width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png">
+</div>
+
+
+<br>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansahu69-py&show_icons=true&theme=neon&align=center)
